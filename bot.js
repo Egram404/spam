@@ -153,3 +153,5 @@ max: 1
 
 client.login(process.env.TOKEN);
 client2.login(process.env.TOKEN2);
+
+});
